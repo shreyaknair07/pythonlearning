@@ -1,0 +1,9 @@
+#2 variables a and b
+a=input("What is the first piece of information?)
+b= input("What is the second part of the information)
+#create a new variable to switch the variable 
+c = a
+a=b 
+b=c 
+print("a: +a)
+print("b: +b)
